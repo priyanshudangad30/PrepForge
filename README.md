@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/27397800/README.md)[Uploadin# PrepForge — Code. Practice. Excel.
+[README.md](https://github.com/user-attachments/files/27397800/README.md)
 
 > A full-stack DSA practice platform built for developers who want to ace coding interviews. Practice problems, track streaks, manage revision notes, and submit code — all in one place.
 
